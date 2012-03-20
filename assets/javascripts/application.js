@@ -1,4 +1,4 @@
-//= require sencha-touch
+//= require sencha-touch-debug
 //= require touch-charts-debug
 //= require chart-themes
 
